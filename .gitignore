@@ -14,12 +14,12 @@ dist/
 downloads/
 eggs/
 .eggs/
+weights/
 lib/
 lib64/
 parts/
 sdist/
 var/
-runs/
 wheels/
 share/python-wheels/
 *.egg-info/
