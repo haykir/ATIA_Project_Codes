@@ -1,0 +1,8 @@
+# cityscapes.yaml
+
+path: C:/Users/101081/Desktop/Advc.Topics/Project/Foggy_CityScapes_Dataset/no_fog  # Root directory of the dataset
+train: "C:/Users/101081/Desktop/Advc.Topics/Project/Foggy_CityScapes_Dataset/no_fog/images/train"  # Path to the training images
+val: "C:/Users/101081/Desktop/Advc.Topics/Project/Foggy_CityScapes_Dataset/no_fog/images/val"     # Path to the validation images
+
+nc: 8  # Number of classes (update this based on your dataset)
+names: ['person', 'car', 'train', 'rider', 'bicycle', 'motorcycle', 'bus', 'truck']
